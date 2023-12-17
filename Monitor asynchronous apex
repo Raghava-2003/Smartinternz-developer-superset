@@ -1,0 +1,19 @@
+1 What type of jobs do not show up in the Apex Flex Queue.
+
+A Future Method Jobs
+
+B Batch Apex Jobs(correct answer)
+
+C Queueable Apex Jobs
+
+D Scheduled Apex Jobs
+
+2 Which statement is true regarding the Flex Queue.
+
+A You can submit up to 200 batch jobs for execution.
+
+B Jobs are processed first-in first-out.(correct answer)
+
+C Jobs can only be scheduled during Taco Tuesdays.
+
+D Jobs are executed depending upon user license
